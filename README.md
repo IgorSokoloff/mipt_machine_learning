@@ -1,3 +1,3 @@
-# machine_learning_mipt
+# mipt_machine_learning
 
-Here I store Machine learning course homeworks which I did on the 8th term at MIPT in 2019
+Here I store Machine Learning course homeworks which I did during the 4th year (8th semester) at MIPT in 2019.
